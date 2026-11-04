@@ -9,7 +9,8 @@
 
 ## Overview
 
-**Gerelee** (Mongolian for “My Light”) is an open-source digital platform that provides adolescent girls with a safe, private, and always-available first response when facing gender-based violence, psychological abuse, or emotional distress.
+**Open-source AI-powered platform for the safety, mental wellbeing and protection of adolescent girls in Mongolia
+** (Mongolian for “My Light”) is an open-source digital platform that provides adolescent girls with a safe, private, and always-available first response when facing gender-based violence, psychological abuse, or emotional distress.
 
 The platform combines:
 - Trauma-informed AI chatbot for immediate emotional support and safety planning
@@ -17,7 +18,7 @@ The platform combines:
 - Intelligent referral system that connects girls (with their consent) to psychologists, doctors, trusted school teachers, social workers, and partner organisations
 - Strong privacy-by-design and safety-by-design principles
 
-Gerelee is built for low-bandwidth environments and basic smartphones, making it accessible to girls in Ulaanbaatar’s ger districts and rural areas of Mongolia.
+It is built for low-bandwidth environments and basic smartphones, making it accessible to girls in Ulaanbaatar’s ger districts and rural areas of Mongolia.
 
 ## Key Features
 
