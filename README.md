@@ -1,4 +1,4 @@
-# Gerelee (Гэрэлээ) – My Light
+# Open-source AI-powered platform for the safety, mental wellbeing and protection of adolescent girls in Mongolia
 
 **Open-source AI-powered platform for the safety, mental wellbeing and protection of adolescent girls in Mongolia**
 
